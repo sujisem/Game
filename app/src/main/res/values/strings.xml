@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">findme</string>
+    <string name="gameone">This old one runs forever, but never moves at all.
+        He has no lungs nor throat, but still a mighty roaring call.
+        What is it?????
+    </string>
+    <string name="gametwo">You can see nothing else, when you look in my face, I will look you in the eye, and I will never lie.</string>
+    <string name="gamethree">What English word retains the same pronunciation, even after you take away four of its five letters? </string>
+    <string name="gamefour">What gets wetter and wetter the more it dries? </string>
+    <string name="gamefive">When you have me, you feel like sharing me.
+        But if you do share me, you do not have me. What am I?</string>
+    <string name="gamesix">I am not alive, but I grow,
+        I do not have lungs, but I need air,
+        I do not have a mouth, but water kills me.
+        What am I?</string>
+    <string name="gameseven">Who makes it, has no need of it.
+Who buys it, has no use for it.
+Who uses it can neither see nor feel it.
+What is it?</string>
+    <string name="gameeight">There was a green house. Inside the green house there was a white house.
+        Inside the white house there was a red house.
+        Inside the red house there were lots of babies.
+        What is it?</string>
+    <string name="gamenine">He has married many women, but has never been married. Who is he?</string>
+</resources>
+
